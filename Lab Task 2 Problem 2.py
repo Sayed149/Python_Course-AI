@@ -30,7 +30,6 @@ for i in range(len(queens)):
             attack = True
 
 
-        # Column attack
         elif c1 == c2:
             print(queens[i], "and", queens[j], "are attacking")
             attack = True
