@@ -2,7 +2,7 @@
 # Question 2:
 # Write a Python program to detect whether any queens are
 # attacking each other in a given arrangement.
-# ============================================================
+# ===========================================================
 
 
 queens = [
