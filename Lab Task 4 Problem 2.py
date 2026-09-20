@@ -13,8 +13,6 @@ def vim_search(text, word):
 
     return matches
 
-
-
 word = "search"
 
 result = vim_search(text, word)
